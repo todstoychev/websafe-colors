@@ -26,6 +26,5 @@
     "psr-4": {
       "Todstoychev\\Wsc\\": "src/"
     }
-  },
-  "minimum-stability": "alpha"
+  }
 }
